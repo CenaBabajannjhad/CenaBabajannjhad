@@ -21,6 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cenababajannjhad&show_icons=true&locale=en" alt="cenababajannjhad" /></p>
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
             
