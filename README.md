@@ -20,11 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cenababajannjhad&show_icons=true&locale=en&layout=compact" alt="cenababajannjhad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cenababajannjhad&show_icons=true&locale=en" alt="cenababajannjhad" /></p>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
-</picture>            
+           
