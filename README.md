@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Cena!!</h1>
-<h3 align="center">🚀 Front-End Developer | Crafting Interactive UIs with React.js ⚛️ | Turning Ideas into Pixel-Perfect Experiences ✨</h3>
+<!-- <h3 align="center">🚀 Front-End Developer | Crafting Interactive UIs with React.js ⚛️ | Turning Ideas into Pixel-Perfect Experiences ✨</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cenababajannjhad&label=Profile%20views&color=0e75b6&style=flat" alt="cenababajannjhad" /> </p>
 
